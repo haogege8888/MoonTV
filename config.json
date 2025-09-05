@@ -343,7 +343,6 @@
       "detail": "https://api.maoyanapi.top",
       "is_adult": false
     },		
-    //成人资源
     "adult_site": {
       "api": "https://api.douapi.cc/api.php/provide/vod",
       "name": "豆豆资源",

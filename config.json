@@ -3,13 +3,13 @@
   "api_site": {
     "regular_site": {
       "api": " ",
-      "name": "常规影视站",
+      "name": " ",
       "detail": " ",
       "is_adult": false
     },
     "adult_site": {
       "api": " ",
-      "name": "成人影视站",
+      "name": " ",
       "detail": " ",
       "is_adult": true
     },
@@ -22,7 +22,7 @@
     "regular_site2": {
       "api": "https://360zy.com/api.php/provide/vod/",
       "name": "360资源",
-      "detail": "https://360zy.com",
+      "detail": "https://360zy.com",   
       "is_adult": false
     },
     "regular_site3": {
@@ -389,6 +389,12 @@
       "api": "https://api.yparse.com/api/json",
       "name": "云解析资源",
       "detail": "https://api.yparse.com",
+      "is_adult": false
+    },
+    "regular_site64": {
+      "api": "https://dh.ha.cn/api.php/provide/vod/at/josn/",
+      "name": "瀑布盘资源",
+      "detail": "https://dh.ha.cn",
       "is_adult": false
     },	
     "adult_site1": {
